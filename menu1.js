@@ -5,7 +5,7 @@ function Go(){return}
     YOU CAN MANUALLY CHANGE THE MENU HERE, BUT BE VERY CAREFUL !
 ***********************************************************************/
 
-Menu1=new Array("CIRCUITOS","https://albertozarza.github.io/wrc/","",3,20,200);
+Menu1=new Array("CIRCUITOS","https://albertozarza.github.io/circuitos/","",3,20,200);
   Menu1_1=new Array("JARAMA","https://albertozarza.github.io/jarama/","",0,20,200);
   Menu1_2=new Array("MONTMELO","https://albertozarza.github.io/montmelo/","",0,20,0);
   Menu1_3=new Array("NURBURGRIN","https://albertozarza.github.io/nurburgrin/","",0,20,200);
